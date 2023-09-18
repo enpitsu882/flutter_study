@@ -1,5 +1,5 @@
 # flutter_study
 
-flutter codelabs: Your first Flutter app
+flutter codelabs & workshops: Your first Flutter app
 
 https://codelabs.developers.google.com/codelabs/flutter-codelab-first
